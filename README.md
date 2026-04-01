@@ -44,7 +44,7 @@ const raajgughan = {
 
 | 📁 Public Repos | 👥 Followers | 👀 Following |
 |:---:|:---:|:---:|
-| **4** | **1** | **0** |
+| **4** | **0** | **0** |
 
 </div>
 
